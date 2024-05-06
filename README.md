@@ -1,6 +1,6 @@
 # Restaurant-site
 
-We have created an interface where current job adverts are listed on this site.
+This project was prepared for the restaurant and is supported with full responsive and strong visuals and colors.
 
 # FEATURES
 - We have achieved a nice user interface on our fully responsive site.
